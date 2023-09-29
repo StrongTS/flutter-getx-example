@@ -1,3 +1,3 @@
 # getx
 
-A new Flutter project.
+เป็นการใช้งาน Basic Getx A new Flutter project.
